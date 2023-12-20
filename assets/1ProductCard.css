@@ -48,3 +48,6 @@ button {
   color: #7e1515;
   font-weight: bold;
 }
+#prezzo p {
+  margin-bottom: -5px;
+}
